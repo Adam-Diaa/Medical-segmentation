@@ -1,0 +1,4 @@
+nibabel>=5.2.0
+numpy>=1.23.0
+plotly>=5.15.0
+totalsegmentator>=2.2.0
