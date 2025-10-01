@@ -51,3 +51,8 @@ Credits
 
 2)Google Colab
  for the runtime environment.
+
+You can install the requirments with
+```python
+!pip install -r requirments.txt
+```
